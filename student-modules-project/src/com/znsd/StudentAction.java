@@ -8,7 +8,7 @@ public class StudentAction {
 	public static void delete(){}
 
     public void add(){
-
+    	System.out.println("asdfasdfadsf");
     }
 
 }
